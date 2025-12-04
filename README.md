@@ -1,4 +1,4 @@
-# contribution_graph
-Adding some basic designs to my GitHub contribution graph (Only edited pre 2024 as was before account was made)
-Contribution: 2007-01-21 12:12
+Contribution Graph
+------------------
 
+A python script that can run a sequence of git commits to design the github contribution graph based on a series on dates given in a pixel map display.
